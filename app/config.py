@@ -4,6 +4,6 @@ DATABASE = {
     'USER' : "root",
     'PASSWORD' : "password",
     'HOST' : "localhost",
-    'NAME' : "Assessment",
+    'NAME' : "Sample_DB",
     'PORT': 3306
 }
